@@ -1,3 +1,5 @@
+
+Check out the live demo at https://gradient-generatoe.vercel.app/
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
